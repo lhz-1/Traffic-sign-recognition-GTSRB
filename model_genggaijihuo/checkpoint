@@ -1,0 +1,2 @@
+model_checkpoint_path: "D:/projects/Traffic-Sign-Classify/model/traffic net"
+all_model_checkpoint_paths: "D:/projects/Traffic-Sign-Classify/model/traffic net"
