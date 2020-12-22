@@ -1,3 +1,8 @@
+请详细查看项目部署文档
+
+数据集（GTSRB）地址https://blog.csdn.net/li_xiaolaji/article/details/108369873
+
+
 运行环境：
 win10操作系统
 python3.7
